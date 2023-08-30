@@ -3,7 +3,7 @@
 - 👀 I’m interested in NodeJS, SaaS, PWA, Mobile Apps, React & Vue
 - 🌱 I’m currently learning Nodejs & React & DevOps
 - 💞️ I’m looking to collaborate on Any Project
-- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/tarekelbarody/) [Website](https://tarekelbarody.com/) 
+- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/tarekelbarody/),  [Website](https://tarekelbarody.com/) 
 
 <!---
 TarekElBarody/TarekElBarody is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
