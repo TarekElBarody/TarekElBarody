@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @TarekElBarody
-- 💪 I'm Software Devoloper, Profissional in LAMP stack, Linux Hosting, .NET Desktop Application (VB,C#) , MySQL, MSSQL, PHP, ASP, Website developing, Social Marketing, REST API 
-- 👀 I’m interested in NodeJS, SaaS, PWA, Mobile Apps, React & Vue
-- 🌱 I’m currently learning Nodejs & React & DevOps
+- 💪 I'm Software Devoloper, Profissional in LAMP stack, Linux Hosting, .NET Desktop Application (VB,C#) , MySQL, MSSQL, PHP, ASP, Website developing, Social Marketing, REST API, NodeJS, SaaS, PWA, Mobile Apps, React & Vue
 - 💞️ I’m looking to collaborate on Any Project
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/tarekelbarody/),  [Website](https://tarekelbarody.com/) 
 
